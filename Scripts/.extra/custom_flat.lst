@@ -1,0 +1,33 @@
+# ------------------------------------------- // System
+com.github.tchx84.Flatseal                     # Flatseal
+io.github.flattool.Warehouse                   # Warehouse
+org.gnome.Boxes                                # Boxes
+io.missioncenter.MissionCenter                 # MissionCenter
+io.gitlab.adhami3310.Impression                # Impression
+
+# ------------------------------------------- // Browser
+org.mozilla.firefox                            # Firefox
+# Removed Brave and Microsoft Edge
+
+# ------------------------------------------- // Social
+com.discordapp.Discord                         # Discord
+
+# ------------------------------------------- // Productivity
+md.obsidian.Obsidian                           # Obsidian (note-taking)
+# Added Obsidian.md
+
+# ------------------------------------------- // Extensions for Firefox
+org.mozilla.firefox.Extension.uBlockOrigin     # uBlock Origin for Firefox
+org.mozilla.firefox.Extension.protonpass       # Proton Pass for Firefox
+
+# ------------------------------------------- // Image/Graphics
+# Removed Inkscape, Krita, GIMP, Blender, and ImageUpscaler
+
+# ------------------------------------------- // Photography
+org.gnome.eog                                  # ImageViewer
+
+# ------------------------------------------- // Audio/Video
+# Removed OBS Studio, Clapper, and VideoDownloader
+
+# ------------------------------------------- // Removed Apps
+# Removed Webcord, Inkscape, Krita, GIMP, Blender, OBS Studio, ProtonTricks
